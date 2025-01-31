@@ -1,0 +1,2 @@
+from Cnnproject.components.data_ingestion import DataIngestion
+from Cnnproject import logging

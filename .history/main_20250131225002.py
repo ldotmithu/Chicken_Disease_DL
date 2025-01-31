@@ -1,0 +1,2 @@
+from Cnnproject.pipeline.train_pipeline import DataIngestionPipeline
+from Cnnproject import logging

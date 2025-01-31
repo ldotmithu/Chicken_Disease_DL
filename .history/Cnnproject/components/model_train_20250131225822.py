@@ -3,5 +3,3 @@ import tensorflow as tf
 from tensorflow import keras 
 from tensorflow.keras.layers import Dense,Faltten
 from tensorflow.keras.preprocessing.image import ImageDataGenerator 
-
-

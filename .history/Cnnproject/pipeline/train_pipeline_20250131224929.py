@@ -2,7 +2,7 @@ from Cnnproject.components.data_ingestion import DataIngestion
 from Cnnproject import logging
 
 
-class DataIngestionPipeline:
+class DataIngestionPipeline(self):
     def __init__(self):
         pass
     
