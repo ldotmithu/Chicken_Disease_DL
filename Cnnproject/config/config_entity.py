@@ -14,5 +14,5 @@ class DataIngestionConfig:
 class ModelTrainingConfig:
     root_dir:Path ="artifacts/model_train"
     data_path:Path ="artifacts\data_ingestion\Chicken-fecal-images"
-    model_name:str="VGG_based.h5"
+    model_name:Path="artifacts/model_train/VGG_based.h5"
         
